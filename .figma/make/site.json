@@ -1,0 +1,11 @@
+{
+  "title": "AmanthaUX",
+  "description": "Create precise designs by using reference images as guides, enabling designers to replicate and enhance visuals efficiently and accurately.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
